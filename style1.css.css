@@ -1,0 +1,38 @@
+.container{
+    background-color: magenta;
+    height: 700px;
+    width: 800px;
+    padding: 90px;
+    border-radius: 1cm;
+
+}
+.one{
+    background-color: aqua;
+    height: 500px;
+    width: 600px;
+    border-radius: 0.5cm;
+    padding: 100px;
+}
+.two{
+    height: 400px;
+    width: 450px;
+    background-color: darkred;
+    border-radius: 0.5cm;
+    padding: 80px;
+}
+.three{
+    height: 200px;
+    width: 200px;
+    background-color:darkorange;
+    border-radius: 0.5cm;
+    padding: 100px;
+}
+.four{
+    
+    height: 210px;
+    width: 200px;
+    background-color:darkorchid;
+    border-radius: 0.5cm;
+    padding: 20px;
+    image-resolution: 500px;
+}

@@ -1,0 +1,56 @@
+
+@import url(./style1.css.css);
+.sec{
+    border-style: double;
+    
+    padding: 10px;
+    background-color: chartreuse;
+    }
+    .one{
+        box-sizing: border-box;
+    }
+    .tab{
+        border-style:solid;
+        border-color:black;
+       height: 700px;
+       width: 700px;
+       padding: 0PX;
+     }
+     .A{
+        background-color:black;
+        padding: 0px;
+     }
+     .B{
+        background-color:white;
+        padding: 0px;
+     }
+     .C{
+        background-color: WHITE;
+        padding: 0px;
+     }
+     .D{
+        background-color: black;
+        padding: 0px;
+     }
+     .E{
+        background-color: black;
+        padding: 0px;
+     }
+     .F{
+        background-color: WHITE;
+        padding: 0px;
+     }
+     .G{
+        background-color: white;
+        padding: 0px;
+     }
+     .H{
+        background-color: black;
+        padding: 0px;
+     }
+#box1{
+    float: right;
+}
+#box2{
+    float: left;
+}
